@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with **EVERYTHING MESHES ;)**
 
+- ⛏ All of my biomedical 3D models [Portfolio](https://github.com/drchiragmotwani/biomedical-3D-models)
+
 - 👨‍💻 All of my projects are available at [https://github.com/drchiragmotwani?tab=repositories](https://github.com/drchiragmotwani?tab=repositories)
 
 - 📫 How to reach me **drchiragmotwani@gmail.com**
