@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drchiragmotwani&label=Profile%20views&color=0e75b6&style=flat" alt="drchiragmotwani" /> </p>
 
-- 🔭 I’m currently working on [SyCG](https://github.com/drchiragmotwani/SyCG-Demo)
+- 🔭 I’m currently working on **[SyCG](https://github.com/drchiragmotwani/SyCG-Demo)**
 
 - 🌱 I’m currently learning **to deal with transparency issues in 3D render engines, mostly Unity and Blender.**
 
@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with **EVERYTHING MESHES ;)**
 
-- ⛏ All of my biomedical 3D models [Portfolio](https://github.com/drchiragmotwani/biomedical-3D-models)
+- ⛏ All of my biomedical 3D models **[Portfolio](https://github.com/drchiragmotwani/biomedical-3D-models)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/drchiragmotwani?tab=repositories](https://github.com/drchiragmotwani?tab=repositories)
+- 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/drchiragmotwani?tab=repositories)**
 
 - 📫 How to reach me **drchiragmotwani@gmail.com**
 
