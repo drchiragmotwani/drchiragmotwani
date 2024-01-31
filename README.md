@@ -15,7 +15,7 @@
 - 📫 How to reach me **drchiragmotwani@gmail.com**
 
 <h3 align="left">Unity simulation projects</h3>
-<p>Robotic colonocopy and PKD pictures from Pixabay</p>
+<p>Pictures for PKD and Vial projects from Pixabay</p>
 <a href="https://github.com/drchiragmotwani/robotic_colonoscopy" target="blank"><img align="center" src="https://github.com/drchiragmotwani/robotic_colonoscopy/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-robotic-colonoscopy-unity" height="230.4" width="172.8" /></a>
 <a href="https://github.com/drchiragmotwani/external_cephalic_version" target="blank"><img align="center" src="https://github.com/drchiragmotwani/external_cephalic_version/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-external-cephalic-version-unity" height="230.4" width="172.8" /></a>
 <a href="https://github.com/drchiragmotwani/PKD_simulation" target="blank"><img align="center" src="https://github.com/drchiragmotwani/PKD_simulation/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-pendulum-knee-drop-test-unity" height="230.4" width="172.8" /></a>
