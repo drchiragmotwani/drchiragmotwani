@@ -12,11 +12,23 @@
 
 - 🤝 I’m looking for help with **EVERYTHING MESHES ;)**
 
-- ⛏ All of my biomedical 3D models **[Portfolio](https://github.com/drchiragmotwani/biomedical-3D-models)**
-
-- 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/drchiragmotwani?tab=repositories)**
-
 - 📫 How to reach me **drchiragmotwani@gmail.com**
+
+<h3 align="left">Unity simulation projects</h3>
+<p>Robotic colonocopy and PKD pictures from Pixabay</p>
+<a href="https://github.com/drchiragmotwani/robotic_colonoscopy" target="blank"><img align="center" src="https://github.com/drchiragmotwani/robotic_colonoscopy/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-robotic-colonoscopy-unity" height="230.4" width="172.8" /></a>
+<a href="https://github.com/drchiragmotwani/external_cephalic_version" target="blank"><img align="center" src="https://github.com/drchiragmotwani/external_cephalic_version/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-external-cephalic-version-unity" height="230.4" width="172.8" /></a>
+<a href="https://github.com/drchiragmotwani/PKD_simulation" target="blank"><img align="center" src="https://github.com/drchiragmotwani/PKD_simulation/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-pendulum-knee-drop-test-unity" height="230.4" width="172.8" /></a>
+<a href="https://github.com/drchiragmotwani/vial_project" target="blank"><img align="center" src="https://github.com/drchiragmotwani/vial_project/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-vial-color-detection-unity" height="230.4" width="172.8" /></a>
+
+<h3 align="left">SyCG</h3>
+<a href="https://github.com/drchiragmotwani/SyCG-Demo" target="blank"><img align="center" src="https://github.com/drchiragmotwani/SyCG-Demo/blob/main/Github_poster_V1.png?raw=true" height="230.4" width="172.8" /></a>
+
+<h3 align="left">Unity game projects</h3>
+<a href="https://github.com/drchiragmotwani/Fuzzy-Fly" target="blank"><img align="center" src="https://github.com/drchiragmotwani/Fuzzy-Fly/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-unity-game" height="230.4" width="172.8" /></a>
+
+<h3 align="left">3D Models</h3>
+<a href="https://github.com/drchiragmotwani/biomedical-3D-models" target="blank"><img align="center" src="https://github.com/drchiragmotwani/biomedical-3D-models/blob/main/Github_poster_3d_models.png?raw=true" alt="chirag-motwani-3d-biomedical-models" height="230.4" width="172.8" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
