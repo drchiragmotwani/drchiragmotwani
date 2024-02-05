@@ -25,6 +25,7 @@
 
 <h3 align="left">Unity game projects</h3>
 <a href="https://github.com/drchiragmotwani/Fuzzy-Fly" target="blank"><img align="center" src="https://github.com/drchiragmotwani/Fuzzy-Fly/blob/main/Github_poster.png?raw=true" alt="chirag-motwani-unity-game" height="230.4" width="172.8" /></a>
+<a href="https://github.com/drchiragmotwani/Mouse-Quicky" target="blank"><img align="center" src="https://github.com/drchiragmotwani/Mouse-Quicky/blob/main/Github-poster.png?raw=true" alt="chirag-motwani-unity-game" height="230.4" width="172.8" /></a>
 
 <h3 align="left">3D Models</h3>
 <a href="https://github.com/drchiragmotwani/biomedical-3D-models" target="blank"><img align="center" src="https://github.com/drchiragmotwani/biomedical-3D-models/blob/main/Github_poster_3d_models.png?raw=true" alt="chirag-motwani-3d-biomedical-models" height="230.4" width="172.8" /></a>
