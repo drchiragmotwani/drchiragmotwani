@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **LLM in Stroke Rehab**
 
-- 🌱  I'm currently learning to navigate **transformer architectures for brain MRI** analysis and fine-tuning **LLMs for clinical research..**
+- 🌱  I'm currently learning to navigate **Transformer Architectures for Brain MRI** analysis and fine-tuning **LLMs for Clinical Research..**
 
-- 👯 I'm looking to work on **ML Models research** and **AI-assisted systems**
+- 👯 I'm looking to work on **ML Models** Research and Engineering
 
 - 🤝 I’m looking for help with **EVERYTHING TRANSFORMERS ;)**
 
