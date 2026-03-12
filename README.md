@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drchiragmotwani&label=Profile%20views&color=0e75b6&style=flat" alt="drchiragmotwani" /> </p>
 
-- 🔭 I’m currently working on **[SyCG](https://github.com/drchiragmotwani/SyCG-Demo)**
+- 🔭 I’m currently working on **LLM in Stroke Rehab**
 
-- 🌱 I’m currently learning **to deal with transparency issues in 3D render engines, mostly Unity and Blender.**
+- 🌱  I'm currently learning to navigate **transformer architectures for brain MRI** analysis and fine-tuning **LLMs for clinical research..**
 
-- 👯 I’m looking to work on **3D simulations and game development**
+- 👯 I'm looking to work on **ML Models research** and **AI-assisted systems**
 
-- 🤝 I’m looking for help with **EVERYTHING MESHES ;)**
+- 🤝 I’m looking for help with **EVERYTHING TRANSFORMERS ;)**
 
 - 📫 How to reach me **drchiragmotwani@gmail.com**
 
