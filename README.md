@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/drchiragmotwani/drchiragmotwani/blob/main/header_github.png?raw=true)
 <h1 align="center">Hi 👋, I'm Dr Chirag Motwani</h1>
-<h3 align="center">3D simulation and game doctor who thinks like an emotional robot.</h3>
+<h3 align="center">Vision Engineer and ML doctor who thinks like an emotional robot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drchiragmotwani&label=Profile%20views&color=0e75b6&style=flat" alt="drchiragmotwani" /> </p>
 
